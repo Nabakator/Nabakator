@@ -1,7 +1,7 @@
 - 👋 'sup, I’m @Nabakator
 - 👀 I’m interested in space and music 👨🏾‍🚀
 - 🌱 I’m currently learning Aerospace Engineering @ UON
-- 💞️ I’m looking to collaborate on Elon's Mars Colonization 🚀 
+- 💞️ I’m looking to collaborate on Elon Musk's Mars Colonization 🚀 
 - 📫 How to reach me: nathansidi@icloud.com
 
 <!---
